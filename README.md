@@ -1,2 +1,0 @@
-# HashtagGenie
-Automatic Hashtag Generator
